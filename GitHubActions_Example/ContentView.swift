@@ -17,7 +17,8 @@ var list: [Item] =
     [
         Item(title: "Hello", purdate: Date()),
         Item(title: "World", purdate: Date()),
-        Item(title: "11111", purdate: Date())
+        Item(title: "11111", purdate: Date()),
+        Item(title: "22222", purdate: Date())
     ]
 
  //asdf
